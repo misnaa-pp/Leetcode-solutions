@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1952-three-divisors](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2427-number-of-common-factors) |

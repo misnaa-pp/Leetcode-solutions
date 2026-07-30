@@ -11,4 +11,4 @@ function subtractProductAndSum(num){
     return product - sum;
 }
 
-console.log(subtractProductAndSum("4421"));
+console.log(subtractProductAndSum("4421345"));

@@ -18,4 +18,4 @@ function countEven(num){
     return count;
 }
 
-console.log(countEven(4));
+console.log(countEven(30));

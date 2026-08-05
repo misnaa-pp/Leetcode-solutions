@@ -12,4 +12,4 @@ function sumOfTheDigitsOfHarshadNumber(x){
     return -1;
 }
 
-console.log(sumOfTheDigitsOfHarshadNumber(18));
+console.log(sumOfTheDigitsOfHarshadNumber(23));

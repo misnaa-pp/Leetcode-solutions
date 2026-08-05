@@ -6,10 +6,10 @@ function sumOfTheDigitsOfHarshadNumber(x){
         sum+=Number(num);
     }
     if(x % sum === 0){
-            return sum;
+        return sum;
         }
 
     return -1;
 }
 
-console.log(sumOfTheDigitsOfHarshadNumber(23));
+console.log(sumOfTheDigitsOfHarshadNumber(56));

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3099-harshad-number](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/3099-harshad-number) |
 ## Number Theory
 |  |
 | ------- |

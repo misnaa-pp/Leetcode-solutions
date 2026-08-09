@@ -14,4 +14,4 @@ function checkPerfectNumber(n){
     
 }
 
-console.log(checkPerfectNumber(7));
+console.log(checkPerfectNumber(12));

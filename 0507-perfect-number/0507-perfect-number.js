@@ -1,17 +1,13 @@
-function checkPerfectNumber(n){
-
+function checkPerfectNumber(n) {
     let sum = 0;
 
-    for (let i=1; i<n; i++){
-        if(n % i === 0){
-            sum+=i;
+    for (let i = 1; i < n; i++) {
+        if (n % i === 0) {
+            sum += i;
         }
     }
-    if(sum === n){
-        return true;
-    }
-        return false;
-    
+
+    return sum === n;
 }
 
-console.log(checkPerfectNumber(12));
+console.log(checkPerfectNumber(28)); 

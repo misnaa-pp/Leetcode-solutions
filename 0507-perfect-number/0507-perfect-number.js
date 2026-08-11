@@ -10,4 +10,4 @@ function checkPerfectNumber(n) {
     return sum === n;
 }
 
-console.log(checkPerfectNumber(28)); 
+console.log(checkPerfectNumber(7)); 

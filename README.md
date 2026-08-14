@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0001-two-sum) |
+| [1816-truncate-sentence](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 ## Stack
 |  |
 | ------- |

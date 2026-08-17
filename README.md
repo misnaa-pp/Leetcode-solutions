@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 ## Stack
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->

@@ -17,4 +17,4 @@ var differenceOfSums = function(n, m) {
     
 };
 
-console.log(differenceOfSums(10,3))
+console.log(differenceOfSums(5,6))

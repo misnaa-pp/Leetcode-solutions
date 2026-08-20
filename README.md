@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |

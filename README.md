@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2706-buy-two-chocolates](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## String
 |  |
 | ------- |

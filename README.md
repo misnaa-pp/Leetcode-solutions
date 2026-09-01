@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2129-capitalize-the-title](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 ## Stack
 |  |
 | ------- |

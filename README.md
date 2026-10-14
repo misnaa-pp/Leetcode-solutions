@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2706-buy-two-chocolates](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2706-buy-two-chocolates) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/misnaa-pp/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 ## Stack
 |  |
